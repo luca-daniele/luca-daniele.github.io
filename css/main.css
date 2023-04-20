@@ -280,7 +280,9 @@ h6 {
 }
 
 .w3-wide {
-    letter-spacing: 4px
+    letter-spacing: 4px;
+    font-family: "Comic Sans MS";
+    font-style: italic;
 }
 
 hr {
@@ -1666,7 +1668,7 @@ a {
 .w3-light-gray,
 .w3-hover-light-gray:hover {
     color: #000 !important;
-    background-color: #00a1ffbd !important
+    background-color: #287384 !important
 }
 
 .w3-dark-grey,
