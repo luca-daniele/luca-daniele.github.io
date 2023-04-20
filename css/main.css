@@ -435,7 +435,7 @@ a {
 
 .w3-tooltip,
 .w3-display-container {
-    position: fixed
+    position: absolute
 }
 
 
