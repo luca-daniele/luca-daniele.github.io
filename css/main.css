@@ -1363,7 +1363,7 @@ a {
 }
 
 .w3-justify {
-    text-align: justify !important
+    text-align: center; !important
 }
 
 .w3-center {
