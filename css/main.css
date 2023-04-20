@@ -435,17 +435,17 @@ a {
 
 .w3-tooltip,
 .w3-display-container {
-    position: relative
+    position: fixed
 }
 
 
 .profile-img {
-    width:35%;
+    width:50%;
+    height:50%;
+    top: 25%;
+    margin: 0 auto;
     border-radius:50%;
-    position:absolute;
-    left:30%;
-    right:30%;
-    bottom:88%
+    position:relative;
 }
 
 
