@@ -1364,6 +1364,7 @@ a {
 
 .w3-justify {
     text-align: center; !important
+    padding:inherit;
 }
 
 .w3-center {
