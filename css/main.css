@@ -438,6 +438,17 @@ a {
     position: relative
 }
 
+
+.profile-img {
+    width:35%;
+    border-radius:50%;
+    position:absolute;
+    left:30%;
+    right:30%;
+    bottom:88%
+}
+
+
 .w3-tooltip .w3-text {
     display: none
 }
